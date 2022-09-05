@@ -24,4 +24,6 @@ pip install bs4
 git clone https://github.com/maminhaz60/minhu2.0
 
 cd minhu2.0
+
+python minhu2.0_enc.py
 ```
