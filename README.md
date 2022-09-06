@@ -1,3 +1,8 @@
+##
+![Alt text](https://user-images.githubusercontent.com/110269240/184834703-4c855b86-1de6-4058-b1fb-1e5b686915ec.gif)
+
+
+
 ## Installation
 
 ```
@@ -27,3 +32,7 @@ cd minhu2.0
 
 python minhu2.0_enc.py
 ```
+
+##
+![Visitor Count](https://profile-counter.glitch.me/maminhaz60/count.svg)
+
